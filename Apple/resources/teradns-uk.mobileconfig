@@ -33,7 +33,7 @@
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
         <key>PayloadIdentifier</key>
-        <string>dee8ce5f-a41d-4841-8825-7536194a7aa9.ahadns.com.profile.dnsSettings.managed</string>
+        <string>dee8ce5f-a41d-4841-8825-7536194a7aa9.teradns.com.profile.dnsSettings.managed</string>
         <key>PayloadUUID</key>
         <string>cb2fc930-8585-44b5-89aa-fc4e7a0cb758</string>
         <key>PayloadDisplayName</key>
