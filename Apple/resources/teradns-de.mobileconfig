@@ -3,9 +3,9 @@
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>AhaDNS Chicago</string>
+    <string>TeraDNS Germany</string>
     <key>PayloadDescription</key>
-    <string>This profile enables AhaDNS on all networks using the new native Encrypted DNS feature.</string>
+    <string>This profile enables TeraDNS on all networks using the new native Encrypted DNS feature.</string>
     <key>PayloadIdentifier</key>
     <string>e0abaa9e-092a-4442-986f-d545f3757ef5.teradns.com.profile</string>
     <key>PayloadScope</key>
@@ -29,7 +29,7 @@
             <string>2a03:4000:63:b7d:2::100</string>
           </array>
           <key>ServerURL</key>
-          <string>https://doh.chi.ahadns.net/dns-query</string>
+          <string>https://de.TeraDNS.org/dns-query</string>
         </dict>
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
