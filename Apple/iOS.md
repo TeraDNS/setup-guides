@@ -1,20 +1,15 @@
-# AhaDNS iOS setup guide
+# TeraDNS iOS setup guide
 
 ## iOS 14 and newer
 
 We've created pre-configured mobileconfig files that will enable encrypted DNS-over-HTTPS on your iOS device on both Wi-Fi and cellular networks.  
 Download links can be found below. You can install the profiles only if you download using safari:
 
-- [Netherlands DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-nl.mobileconfig)
-- [India DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-in.mobileconfig)
-- [Los Angeles DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-la.mobileconfig)
-- [New York DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-ny.mobileconfig)
-- [Poland DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-pl.mobileconfig)
-- [Italy DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-it.mobileconfig)
-- [Spain DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-es.mobileconfig)
-- [Norway DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-no.mobileconfig)
-- [Chicago DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-chi.mobileconfig)
-- [Australia DNS mobileconfig](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/resources/ahadns-au.mobileconfig)
+- [United Kingdom DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-uk.mobileconfig)
+- [Lithuania DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-lt.mobileconfig)
+- [Germany DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-de.mobileconfig)
+- [New York DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-us-east.mobileconfig)
+- [Dallas DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-us-central.mobileconfig)
 
 ### Mobileconfig instructions
 
