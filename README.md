@@ -8,7 +8,7 @@ All guides can be found at teradns.org/setup-guides. Please feel free to create 
 Existing guides
 
    - [iOS](https://raw.githubusercontent.com/TeraDNS/setup-guides/blob/master/Apple/iOS.md)
-   - [Android](https://raw.githubusercontent.com/TeraDNS/setup-guides/blob/master/Android/)
+   - [Android](https://raw.githubusercontent.com/TeraDNS/setup-guides/blob/master/Android/Android.md)
    - [MacOS](https://raw.githubusercontent.com/TeraDNS/setup-guides/blob/master/Apple/MacOS.md)
-   - [Microsoft Edge](https://raw.githubusercontent.com/TeraDNS/setup-guides/blob/master/edge)
+   - [Microsoft Edge](https://raw.githubusercontent.com/TeraDNS/setup-guides/blob/master/MSEdge/Edge.md)
 
