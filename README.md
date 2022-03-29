@@ -1,14 +1,14 @@
 # setup-guides
 Collection of all TeraDNS setup guides
 
-#Intended usecase
+# Intended usecase
 
-This repository contains all AhaDNS setup guides. We've placed them here in this repository to be able to get contributions from our community.
-All guides can be found at ahadns.com/setup-guides. Please feel free to create or modify any guide and submit your changes in a PR!
+This repository contains all TeraDNS setup guides. We've placed them here in this repository to be able to get contributions from our community.
+All guides can be found at teradns.org/setup-guides. Please feel free to create or modify any guide and submit your changes in a PR!
 Existing guides
 
-    iOS
-    Android
-    MacOS
-    Microsoft Edge
+   - [iOS](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/iOS.md)
+   - [Android](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Android/)
+   - [MacOS](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/Apple/MacOS.md)
+   - [Microsoft Edge](https://raw.githubusercontent.com/AhaDNS/setup-guides/master/edge)
 
