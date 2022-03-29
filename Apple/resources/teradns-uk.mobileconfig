@@ -7,7 +7,7 @@
     <key>PayloadDescription</key>
     <string>This profile enables AhaDNS on all networks using the new native Encrypted DNS feature.</string>
     <key>PayloadIdentifier</key>
-    <string>076b05e7-e0c5-4132-b120-3c1187b4bcdd.ahadns.com.profile</string>
+    <string>076b05e7-e0c5-4132-b120-3c1187b4bcdd.teradns.com.profile</string>
     <key>PayloadScope</key>
     <string>User</string>
     <key>PayloadType</key>
