@@ -29,7 +29,7 @@
             <string>2605:aa80:1:1688::0001</string>
           </array>
           <key>ServerURL</key>
-          <string>https://us-east.teradns.org/dns-query</string>
+          <string>https://ny.teradns.org/dns-query</string>
         </dict>
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
