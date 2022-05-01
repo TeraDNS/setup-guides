@@ -1,47 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>PayloadDisplayName</key>
-    <string>TeraDNS New York</string>
-    <key>PayloadDescription</key>
-    <string>This profile enables TeraDNS on all networks using the new native Encrypted DNS feature.</string>
-    <key>PayloadIdentifier</key>
-    <string>e0abaa9e-092a-4442-986f-d545f3757ef5.teradns.com.profile</string>
-    <key>PayloadScope</key>
-    <string>User</string>
-    <key>PayloadType</key>
-    <string>Configuration</string>
-    <key>PayloadUUID</key>
-    <string>6c27a6b5-bf42-4d63-9cb4-6acd6178e99a</string>
-    <key>PayloadVersion</key>
-    <integer>1</integer>
-    <key>PayloadContent</key>
-    <array>
-      <dict>
-        <key>DNSSettings</key>
-        <dict>
-          <key>DNSProtocol</key>
-          <string>HTTPS</string>
-          <key>ServerAddresses</key>
-          <array>
-            <string>45.61.162.132</string>
-            <string>2605:aa80:1:1688::0001</string>
-          </array>
-          <key>ServerURL</key>
-          <string>https://ny.teradns.org/dns-query</string>
-        </dict>
-        <key>PayloadType</key>
-        <string>com.apple.dnsSettings.managed</string>
-        <key>PayloadIdentifier</key>
-        <string>eea7a13a-66e1-4fe7-b183-8808a734befb.teradns.com.profile.dnsSettings.managed</string>
-        <key>PayloadUUID</key>
-        <string>3a846aca-4321-42a2-a616-bd57bbb2380f</string>
-        <key>PayloadDisplayName</key>
-        <string>TeraDNS New York</string>
-        <key>PayloadVersion</key>
-        <integer>1</integer>
-      </dict>
-    </array>
-  </dict>
+<dict>
+<key>PayloadContent</key>
+<array>
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerAddresses</key>
+<array>
+<string>2605:aa80:1:1688::0001</string>
+<string>45.61.162.132</string>
+</array>
+<key>ServerURL</key>
+<string>https://ny.teradns.org/dns-query</string>
+</dict>
+<key>OnDemandRules</key>
+<array>
+<dict>
+<key>Action</key>
+<string>Connect</string>
+<key>InterfaceTypeMatch</key>
+<string>WiFi</string>
+</dict>
+<dict>
+<key>Action</key>
+<string>Connect</string>
+<key>InterfaceTypeMatch</key>
+<string>Cellular</string>
+</dict>
+<dict>
+<key>Action</key>
+<string>Disconnect</string>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>Configures device to use TeraDNS New York Encrypted DNS over HTTPS</string>
+<key>PayloadDisplayName</key>
+<string>TeraDNS New York DNS over HTTPS</string>
+<key>PayloadIdentifier</key>
+<string>com.apple.dnsSettings.managed.5ad58b0e-5a91-4e8e-a9aa-4a2de8a7f411</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>aaa0b23d-c627-45eb-88ea-334ded33d41e</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+<key>ProhibitDisablement</key>
+<false/>
+</dict>
+</array>
+<key>PayloadDescription</key>
+<string>Adds different encrypted DNS configurations to Big Sur and iOS 14 based systems</string>
+<key>PayloadDisplayName</key>
+<string>Encrypted DNS (DoH, DoT)</string>
+<key>PayloadIdentifier</key>
+<string>com.notjakob.apple-dns.7f4680cd-5736-4932-bf26-eb495dd85cb9</string>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>c6415c3a-c884-4ca2-a43d-b919e2f23fc4</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
 </plist>
