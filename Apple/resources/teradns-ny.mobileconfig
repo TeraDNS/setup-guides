@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>TeraDNS US East</string>
+    <string>TeraDNS New York</string>
     <key>PayloadDescription</key>
     <string>This profile enables TeraDNS on all networks using the new native Encrypted DNS feature.</string>
     <key>PayloadIdentifier</key>
@@ -38,7 +38,7 @@
         <key>PayloadUUID</key>
         <string>e2dc0da4-71cc-4f46-93a8-59e8ec8b21eb</string>
         <key>PayloadDisplayName</key>
-        <string>TeraDNS US East</string>
+        <string>TeraDNS New York</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
       </dict>
