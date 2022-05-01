@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>TeraDNS US Central</string>
+    <string>TeraDNS Texas</string>
     <key>PayloadDescription</key>
     <string>This profile enables TeraDNS on all networks using the new native Encrypted DNS feature.</string>
     <key>PayloadIdentifier</key>
@@ -38,7 +38,7 @@
         <key>PayloadUUID</key>
         <string>88c11e13-c418-4348-8d52-02343f261d9b</string>
         <key>PayloadDisplayName</key>
-        <string>TeraDNS US Central</string>
+        <string>TeraDNS Texas</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
       </dict>
