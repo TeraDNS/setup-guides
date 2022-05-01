@@ -6,7 +6,7 @@ We've created pre-configured mobileconfig files that will enable encrypted DNS-o
 Download links can be found below. You can install the profiles only if you download using safari:
 
 - [United Kingdom DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-uk.mobileconfig)
-- [Lithuania DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-lt.mobileconfig)
+- [Singapore DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-sg.mobileconfig)
 - [Germany DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-de.mobileconfig)
 - [New York DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-us-east.mobileconfig)
 - [Dallas DNS mobileconfig](https://raw.githubusercontent.com/TeraDNS/setup-guides/master/Apple/resources/teradns-us-central.mobileconfig)
