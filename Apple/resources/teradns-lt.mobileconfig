@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>TeraDNS Lithuania</string>
+    <string>TeraDNS Singapore</string>
     <key>PayloadDescription</key>
     <string>This profile enables TeraDNS on all networks using the new native Encrypted DNS feature.</string>
     <key>PayloadIdentifier</key>
@@ -25,11 +25,11 @@
           <string>HTTPS</string>
           <key>ServerAddresses</key>
           <array>
-            <string>80.209.236.92</string>
-            <string>2a02:7b40:50d1:ec5c::1</string>
+            <string>103.167.151.201</string>
+            <string>2406:ef80:2:8f28::1</string>
           </array>
           <key>ServerURL</key>
-          <string>https://lt.teradns.org/dns-query</string>
+          <string>https://sg.teradns.org/dns-query</string>
         </dict>
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
@@ -38,7 +38,7 @@
         <key>PayloadUUID</key>
         <string>3a846aca-4321-42a2-a616-bd57bbb2380f</string>
         <key>PayloadDisplayName</key>
-        <string>TeraDNS Lituania</string>
+        <string>TeraDNS Singapore</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
       </dict>
