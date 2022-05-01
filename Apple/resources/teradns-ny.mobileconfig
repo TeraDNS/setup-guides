@@ -7,13 +7,13 @@
     <key>PayloadDescription</key>
     <string>This profile enables TeraDNS on all networks using the new native Encrypted DNS feature.</string>
     <key>PayloadIdentifier</key>
-    <string>cf459f48-6139-4999-ad03-e8a60ae0b3aa.teradns.com.profile</string>
+    <string>e0abaa9e-092a-4442-986f-d545f3757ef5.teradns.com.profile</string>
     <key>PayloadScope</key>
     <string>User</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>046e0147-7ff4-4bad-8bc0-c668ce667c54</string>
+    <string>6c27a6b5-bf42-4d63-9cb4-6acd6178e99a</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadContent</key>
@@ -34,9 +34,9 @@
         <key>PayloadType</key>
         <string>com.apple.dnsSettings.managed</string>
         <key>PayloadIdentifier</key>
-        <string>8d8ba6cd-fc1d-42a8-bbb6-9899ff6e7869.teradns.com.profile.dnsSettings.managed</string>
+        <string>eea7a13a-66e1-4fe7-b183-8808a734befb.teradns.com.profile.dnsSettings.managed</string>
         <key>PayloadUUID</key>
-        <string>e2dc0da4-71cc-4f46-93a8-59e8ec8b21eb</string>
+        <string>3a846aca-4321-42a2-a616-bd57bbb2380f</string>
         <key>PayloadDisplayName</key>
         <string>TeraDNS New York</string>
         <key>PayloadVersion</key>
